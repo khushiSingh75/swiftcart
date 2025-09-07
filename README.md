@@ -1,3 +1,5 @@
+
+👉 [Live App](https://swiftcart-phi.vercel.app)
 # ShopEasy - E-commerce Web Application
 
 A full-stack e-commerce web application built with React, Convex, and TypeScript featuring JWT authentication, product management, and persistent shopping cart functionality.
